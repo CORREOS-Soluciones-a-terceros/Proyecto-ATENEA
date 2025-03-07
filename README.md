@@ -29,6 +29,7 @@ Te permitirá integrar servicios de **paquetería nacional** e internacional tan
 ## Servicios de Correos Express:
 - Paq 10
 - Paq 14
+- Paq 18
 - Paq 24
 - Paq Empresa 14
 - Epaq 24
